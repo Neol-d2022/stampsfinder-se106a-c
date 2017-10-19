@@ -1,6 +1,6 @@
 # stampsfinder-se106a-c
 
-## Install
+## Compile
 - `make` for Unix-like system.
 - `mingw32-make` for Mingw.
 

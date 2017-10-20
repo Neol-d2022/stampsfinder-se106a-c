@@ -5,7 +5,7 @@ LFLAGS=
 
 OBJS=linkedlist.o main.o mm.o stamp.o vector.o
 DEPS=linkedlist.h mm.h stamp.h vector.h
-LIBS=
+LIBS=-lm
 
 BIN=stampfinder
 
